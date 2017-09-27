@@ -1,0 +1,115 @@
+Diagram Presentation 
+
+Date: Oct 4, 2017
+Total Time: 30-45 min
+
+Tools: draw.io, confluence, balsamiq
+
+Goal: 
+
+	1. Why this is useful
+	2. Introduce Draw.IO, Balsamiq, and Confluence
+	3. Review UML
+	4. Tie everything together with a real project
+
+
+======
+
+PART 1: WHY THIS IS USEFUL
+
+	1. Introduction
+
+		Measure twice, cut once. An old adage but extremely applicable in this field. As projects become more complex, planning becomes more important
+
+
+	2. Why do this?
+
+		Documentation is boring. 
+
+		Planning is critical
+
+		Visual learning is better than having to read a wall of text (use cooking infographic comparison)
+
+		Being able to visualize the problem overall makes it easy to identify issues early on
+
+		Ultimately saves time
+
+		Everyone generally has a different idea on how to approach a problem. Can help bring cohesion to a soltuion when working on a team
+ 
+		Makes life easier for whoever continues a project after you
+
+		Makes life easier for those joining a team in the middle of the project
+
+
+=======
+PART 2: TOOLS
+
+	1. Introduction
+
+		Going to introduce two different tools that correspond to different parts of planning
+
+		All of these plug into Confluence
+
+		All of these are relatively well known
+
+	2. Tool 1: Balsamiq
+
+		Balsamiq is a tool for mocking up graphical user interfaces
+
+		Most of what we do now has moved to involving web and mobile in some way
+
+		Widely adopted
+
+		Better than a white board
+
+		Can emphasize dynamic elements
+
+		Produces a very clear picture of the end goal
+
+		Able to easily send this to the client and get feedback
+
+		Ultimately saves time
+
+
+	3. Tool 2: Draw.IO
+
+		Visual planning: UML, Network Diagrams, Data Diagrams, etc.
+
+		Confluence plugin available
+
+		Can easily tie into many accounts you already have
+
+		Built in HTML5
+
+		Clean and easy to use interface
+
+		Free
+
+
+	4. Tool Alternatives:
+
+		MS Visio - Set the standard early on for this. Professional tool w/ some nice features. Paid.
+
+		LucidChart - Allegedly the most popular online tool
+
+
+=====
+Part 3: Balsamic Demo
+
+	Create a basic 2-page mockup for a Zillow-like site. Show pdf export
+
+=====
+Part 4: UML Review
+
+
+
+
+
+
+
+
+
+
+
+
+
